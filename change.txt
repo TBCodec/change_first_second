@@ -1,0 +1,23 @@
+alulvonás, aláhúzásjel#underscore
+megvált, jóvátesz, visszafizet, megad, megtérít#redeem
+létezik#exist
+visszatérítés, visszafizetés# refund
+megoldás, megfejtés#solution
+vázlat, ellenőrzés, átnézés, megvizsgálás#survey
+ajánlat, javaslat, indítvány#proposal
+állandó, örök#persistent
+daru#crane
+különös, bizarr, titokzatos#weird
+körülmény, részlet, sajátság, aprólékos, részleges, sajátos#particular
+ad, kínál, szolgáltat#provide
+feltéve, ha#provided
+fejlesztő#developer
+kezelés#treatment
+elszánt, határozott#decided
+kínálat#supply
+vezet#leads
+felértékelődés#appreciation
+érzék#sense
+szorongás#anxiety
+megfizethető#affordable
+egyenértékű#equivalent

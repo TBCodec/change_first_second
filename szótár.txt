@@ -1,0 +1,690 @@
+*2P_I
+a legjobb barát#best friend
+sötét haj#dark hair
+kert#garden
+szomszéd#neighbour
+a szomszédban#next door
+ott#over there
+emberek#people
+a rövid hajú fiú#the boy with short hair
+üdvözöllek#welcome
+tevékenység#activity
+cím#address
+érdekli valami#be interested
+klub#Club
+email cím#email address
+magába foglal#include
+csatlakozik#join
+tagsági igazolvány#membership card
+nyitva#open
+irányítószám#postcode
+recepció#receptionist
+sporközpont#sport centre
+tollaslaba#badminton
+kosárlabda#basketball
+fitneneszóra#fitnessclass
+labdarugás#football
+karate#karate
+uszás#swimming
+asztalitenisz#table tennis
+tenisz#tennis
+röplabda#volleyball
+súlyzozás#weight training
+jóga#yoga
+kerékpár#bike
+mindkettö#both
+elszámol#count from
+eloszt valamit#divide
+méter#metre
+kerékpározni#ride a bike
+visz, cipel#carry
+emlékezet#memory
+plakát#poster
+teniszütő#tennis racquet
+visel#wear
+milyen színű(ek)#what colour is/are
+egy kevés#a bit of
+sok#a lot of
+rajta,gyerünk#come on!
+tánc#dance
+mindenki#everyone
+csípők#hips
+ugrik#jump
+kulcs#key
+mobil#mobile
+fénykép#photograph
+vonalzó#ruler
+mozgat#swing
+fel#up
+*2P_2A
+távolsági bus#coach
+hamburger#hamburger
+elmutogat#mime
+előtt#outside
+program műsor#programme
+fut#run
+felváltva#take turns
+utazás#trip
+vár valamire#wait
+egy állat kicsinye#young
+macska#cat
+borjú#calf
+tehén#cow
+kacsa#duck
+kiskacsa#duckling
+csikó#foal
+kecske#goat
+ló#horse
+kecskegida#kid
+kiscica#kitten
+bárány#lamb
+disznó#pig
+kismalac#piglet
+kiskutya#puppy
+birka#sheep
+*2P_2B
+előad#act
+csont#bone
+dinoszaurusz#dinosaur
+vége#ending
+ragasztó#glue
+őrzi#guard
+odaragadtam#i am stuck
+délután#in the afternoon
+utasítás#instruction
+keres#look for
+képesújság#magazine
+makett#model
+száj#mouth
+mozog#move
+más, másik#other
+valami#something
+bocsánat#sorry
+*2P_2C
+ugat#bark
+leírás#description
+különféle#different
+tojás#egg
+elefánt#elephant
+mégis#even
+róka#fox
+föld, talaly#ground
+csoport#group
+lyuk#hole
+reggel#in the morning
+gyík#lizard
+nagyon szeret, imád#love
+szurikáta, mongúz#meerkat
+egér#mouse
+pár#pair
+növény#plant
+mérgező#poisonous
+elég#quite
+skorpió#scorpion
+méret#size
+déli#southern
+csík#stripe
+víz#water
+vadvédelmi körzet#wildlife park
+munka#work
+rovar#insect
+*2P_2D
+vele jön#come with
+barlang#den
+le#down
+leesik#fall
+udvar#farmyard
+kövess#follow me
+király#king
+dióféle#nut
+te jó ég#oh dear
+tó#pond
+kiviszi a szemetet#put out the rubbish
+út#road
+széle valaminek#side
+ég bolt#sky
+megáll#stop
+hirtelen#suddenly
+mond#tell
+falu#village
+elmosogat#wash up
+út#way
+amíg#while
+feleség#wife
+eltekintve#apart from
+medve#bear
+madármegfigyelés#bird_watching
+épít#build
+épület#bilding
+lepke#butterfly
+előjön#come out
+gyakori#common
+védik#countryside
+szarvas#deer
+eltünik#disappear
+megszökik#escape
+étel#food
+kertész#gardener
+kormány#government
+sündisznó#hedgehog
+hobbi#hobby
+veszélyeztetett#in danger
+lebont#knock down
+nagy#large
+helyi#local
+említ#mention
+a legtöbb#most
+természetesen#of course
+bagoly#owl
+párduc#panther
+bekezdés#paragraph
+kártevő#pest
+megvéd#protect
+tanul#pupil
+ritka#rare
+étterem#restaurant
+szafaripark#safari park
+dél_nyugat#south_west
+mókus#squirrel
+téma#topic
+város#town
+megpróbál#try
+kis termetü kengurufaj#wallaby
+vad#wild
+farkas#wolf
+állatkert#zoo
+levegő#air
+kétéltü állat#amphibian
+gerinc#back bone
+lélegzik#breathe
+ponty#carp
+osztlyozás#classification
+hidegvérü#cold_blooded
+szabályoz#controle
+gyors#fast
+repül#fly
+édesviz#fresh water
+helyett#instead
+tart#keep
+szárazföld#land
+tojást rak#lay eggs
+emlős#mammal
+tej#milk
+több#more
+termel#produce
+hüllő#reptile
+úszó#swimmer
+hőmérséklet#temperature
+teknősbéka#turtle
+fajta#type
+szokatlan#unusual
+gerinces#vertebrate
+melegvérű#warm_blooded
+bálna#whale
+fű#grass
+telefonon beszél#on the mobile phone
+egyedül#alone
+barlang#cave
+ide_oda#from side to side
+vicces#funny
+felszáll(járműre)#get on
+magas#high
+érdekes#intersting
+kinéz(külsőre)#look like
+majdnem#nearly
+elér#reach
+himbálózik#sway
+*2P_3A
+lakás lakosztály#apartment
+nem otthon#away
+tengerpart#beach
+kifejezés#expression
+messze#far
+remél#hope
+beteg#ill
+esik#rein
+uram#sir
+edző sportoktató#sport instructor
+vidámpark#theme park
+esküvő#wedding
+hétvége#weekend
+szabadhétvége#weekend off
+a vidámparkba#at a theme park
+esküvőn#at a wedding
+otthon#at home
+iskolában#at school
+munkában#at work
+ágyban#in bad
+kertben#in the garden
+parkban#in the park
+nyaral#on holiday
+tengerparton#on the beach
+*3P
+megbeszélés,vita#discussion
+tessék?Mit mondtál?#pardon
+OK,Értem#right
+És mi van a ...vel#what about
+És te?#what about you
+jelenleg#at the moment
+okos#clever
+ügyfél#customer
+kerékpározik#cycle
+nyomozó#detective
+gyémánt#diamond
+mindennap#every day
+minden évben#every year
+visszavág#fight back
+követ(nem a nagy követ)#follow
+drágakő#jewel
+maratoni futás#marathon
+nyaklánc#necklace
+valami mellett#next door to
+telefon#phone
+magánnyomozó#private detective
+rendszeresen#regularly
+megjavít#repair
+gyűrű#ring
+csörög(a telefon)#ring
+küld#send
+kezet ráz/fog#shake hands
+cégtábla#sign
+valaki#someone
+tolvaj#thief
+nos#well
+Ki az a férfi?#who's that man
+csodál#admire
+városközpont#city centre
+mindenki#everyone
+vissza megy#go back
+a múlt héten#last week
+a múlt évben#last year
+tag#member
+hiányzik neki#miss
+csintalan#naughty
+északi részén#the north of
+jobban szeret#prefer
+emlékszik#remember
+szakasz#stage
+buszra száll#take the bus
+dolog#thing
+születik#be born
+meghal#die
+állást kap#get a job
+megházasodik#get married
+egyetemre megy#go to university
+gyerekei vannak#have children
+befejezi a sulit#leave school
+elköltözik#move
+elkezdi a sulit#start school
+*saját
+alulvonás, aláhúzásjel#underscore
+megvált, jóvátesz, visszafizet, megad, megtérít#redeem
+létezik#exist
+visszatérítés, visszafizetés# refund
+megoldás, megfejtés#solution
+vázlat, ellenőrzés, átnézés, megvizsgálás#survey
+ajánlat, javaslat, indítvány#proposal
+állandó, örök#persistent
+daru#crane
+különös, bizarr, titokzatos#weird
+körülmény, részlet, sajátság, aprólékos, részleges, sajátos#particular
+ad, kínál, szolgáltat#provide
+feltéve, ha#provided
+fejlesztő#developer
+kezelés#treatment
+elszánt, határozott#decided
+kínálat#supply
+vezet#leads
+felértékelődés#appreciation
+érzék#sense
+szorongás#anxiety
+megfizethető#affordable
+egyenértékű#equivalent
+*2P_4A
+uzsonnás doboz#lunchbox
+étlap#menu
+vegyes#mixed
+rendel#order
+banán#banana
+marhahús#beef
+bab#beans
+kenyér#bread
+vaj#butter
+káposzta#cabbage
+sárgarépa#carrot
+sajt#cheese
+sajtburger#cheeseburger
+csirke#chicken
+sült hasábburgonya#chips
+kávé#coffee
+kóla#cola
+tejszín#cream
+burgonya szirom#crips
+desszert#dessert
+ital#drink
+tojás#egg
+hal#fish
+gyümülcs#fruit
+szőlő#grapes
+sonka#hem
+forró csokoládé#hot chocolate
+fagylalt#ice_cream
+bárány#lamb
+citrom#lemon
+limonádé#lemonade
+saláta#lettuce
+hús#meat
+tej#milk
+tejturmix#milkshake
+gomba#mushroom
+hagyma#onion
+narancslé#orange juice
+pite#pie
+sertéshús#pork
+burgonya#potato
+rizs#rice
+saláta#salad
+lazac#salmon
+só#salt
+magnélküli mandarinfalyta#satsuma
+kolbász#sausage
+leves#soup
+bolonyai spagetti#spagettia bolognese
+cukor#sugar
+tea#tea
+paradicsom#tomato
+tonhal#tuna
+zöldség#vegetable
+bor#wine
+jogurt#yoghurt
+*2P_4B
+majdnem#almost
+másik#another
+üveg#bottle
+visszahoz#bring back
+visszajön#come back
+felvág#cut up
+finom#delicious
+étrend#dieth
+hoz#fetch
+kiderít#find out
+egészséges#healthy
+kopog#knock
+cipó#loaf
+bűvös#magic
+átlagos#normal
+kár#pity
+kész#ready
+lábas#soucepan
+szelet#slice
+kanál#spoon
+kő#stone
+megkostol#taste
+csavargó#trump
+vajon#whether
+*2P_3B
+mérges#angry
+megkérdez#ask
+autómosó#car wash
+becsuk#close
+gyüjt#collect
+élvez#enjoy
+megragad#grab
+leszáll#land
+észrevesz#notice
+csomagol#pack
+telefonhivás#phone call
+felvesz#pick up
+zseb#pocket
+bevásárlo lista#shopping list
+kiált#shout
+valaki más#someone else
+utazik#travel
+kicsomagol#unpack
+repülőtér#airport
+kemping#campside
+lakokocsi#caravan
+cimke#label
+csomag#luggage
+utas#passenger
+útlevél#passport
+repülőgép#plane
+hátizsák#rucksack
+kifutópálya#runway
+bőrönd#suitcase
+taxi#taxi
+sátor#tent
+jegy#ticket
+tolokocsi#trolley
+*2P_4C
+almalé#apple juice
+végre#at last
+tábla(csokoládé)#bar
+fürt#bunch
+doboz(pl.:tejes doboz)#carton
+gramm#gram
+csomag#packet
+doboz(általában kerek,műanyag,pl.:joghurtos)#pot
+mennyiség#quantity
+polc#shelf
+konzerv(doboz)#tin
+aggódik#worried
+után#after
+gyűlés#assembly
+többlakásos ház#block of flats
+megfelelő#correct
+kulcsszó#cue
+naponta#daily
+felnő#grow up
+történik#happend
+középiskola#high school
+elindul otthonról#leave home
+emelet#floor
+gyakorol#practise
+névsorolvasás#registration
+megfelelő#right
+még#yet
+egyszer#once
+kétszer#twice
+kevésbé#less
+mint#than
+érzés#feeling
+gabona#cereal
+fanatikus#fanatic
+gyakran#often
+minden egyes#each
+mindig#always
+néha#sometimes
+általában#usually
+helyi#local
+csipsz#crisps
+fajta#variety
+*4P_I
+videófelvevő#camcorder
+szakácsművészet#cookery
+adománygyüjtés#fundraising
+pénzt gyűjt#raise money
+tetvérsuli#twinschool
+biztos#definite
+várj egy percet#hang on a minute
+gondolom#I suppose
+ötletem sincs#I've got no idea
+döntést hoz#make a decision
+verseny#tournament
+munkatapasztalat#work experience
+*4P_1A
+régész#archaeologist
+nyíl#arrow
+nyílhegy#arrowhead
+időszámításunk előtt#BC
+íj#bow
+köpönyeg#cloak
+gabona#corn
+megfagy#freeze
+folyamatban#in progress
+anyag#material
+ösvény#path
+lő#shoot
+tapasztalat, fejlett#sophisticated
+kőkorszak#stone age
+vízálló#waterproof
+gyapjúból#woollen
+röntgen#x-ray
+vörösréz#copper
+gyapot, pamut#cotton
+bőr#leather
+poliészter#polyester
+selyem#silk
+acél#steel
+gyapjú#wool
+*4P_1B-C
+kőműves#builder
+elrak#put away
+üzlettárs#business partner
+szövet anyag#cloth
+kényelmes#comfortable
+farmer anyag#denim
+tervező#designer
+mozgólépcső#escalator
+divatos#fashionable
+illik rá#fit
+aranyásó#gold miner
+áruk#goods
+magas sarkú#high-heeled
+bevándorló#immigrant
+behoz az orstzágba#import
+ruhadarab#item of clothing
+eredetileg#originally
+szabadalom#patent 
+vasút építő munkás#railway worker
+szegecs#rivet
+fazon, stílus#style
+felpróbál valamit#try something on
+alsónemű#underwear
+nagykereskedő#wholesaler
+bő, buggyos#baggy
+kockás#checked
+trapéz#flared
+lapos#flat
+hosszú ujjú#long-sleeved
+bő#loose
+egyszínű#plain
+hegyes#pointed
+rovid ujjú#short-sleeved
+csíkos#striped
+szűk, szoros#tight
+*4P_1D
+legközelebb jobban sikerül#better luck next time
+gratulálok#congratulation
+elég jól megy neki#do quite well
+megbukik(vizsgán)#fail
+hogy sikerült?#how did it go?
+hogy mennt neked?#how did you get on
+drukkolok neked#I will keep my fingers crossed for you
+örömmel hallom#I'm glad to hear that
+sajnálattal hallom#I'm sorry to hear that
+osztályzat#mark
+rá se ránts#never mind
+átmegy(vizsgán)#pass
+kár, sajnálom#that's a pity
+egész jó#that's pretty good
+időszámításunk szerint#AD
+csata#battle
+császár#emperor
+birodalom#empire
+fokozatosan#gradually
+végül#in the end
+megszáll, lerohan#invade
+megszállás#invasion
+királyság#kingdom
+törzs#tribe
+egyesül, egyesít#unite
+alumínium#aluminium
+bakelit#bakelite
+bronz#bronze
+faszén#charcoal
+szén#coal
+kéreg#crust
+ipari#industrial
+különösképpen#in particular
+helyett#instead of
+*WB3_3
+összehasonlít#match
+szöveg#text
+jelek#symbols
+úgy néz ki, mint#looks like
+érzés, hangulat#feeling
+mutat#shows
+például#for example
+valamit jelent#means
+kis, kicsi#little
+mikor?#when
+készít, csinál#make
+hogy, hogyan#how
+nagyon, leginkább#most
+népszerű, közkedvelt#popular
+szemek#eyes
+orr#nose
+is#also
+unatkozó#bored
+másik#another
+mondat#sentence
+azonos, ugyanaz#same
+bármelyik#any
+*Codecool_01
+unokaöcs, unokafivér, unokatestvér, unoka, sógor#nephew
+szenvedés#suffering
+köt, megköt, összeköt, beköt, kiköt, leköt, kivarr, beszeg, kötöz, bekötöz, összekötöz#bind
+megvalósít, kivitelez, foganatosít, végrehajt#implement
+célzás, utalás, nyom#hint
+kobold, manó, tündér#sprite
+értelmez, definiál, meghatároz#define
+terv, ütemterv, program, ütemezés#schedule
+gólya, elsőéves#freshman
+hozzájárul, közreműködik, része van, részesül, részt vesz#participate
+szervezett, megszervezett#organized
+elrendez, megigazít, rendbe hoz#arrange
+menet, folyamat, lefolyás, tanfolyam, előadássorozat, kurzus#course
+felsorakoztat, sorba állít, egyenget#align
+ecsetel, leír#describe
+leírás, személyleírás#description
+látogatás, járás, részvétel, jelenlét#attendance
+cél, célzat, végcél, házassági szándék, miseszándék, szándék#intention
+konyha, főzésmód, konyhaművészet#cuisine
+irányít, menedzsel#direct
+nyom, nyomravezető jel, támpont, vezérfonal#clue
+viselkedik#behave
+folyamatábra#flowchart
+befejező személy, befejező dolog, pusztító#terminator
+folyamat, eljárás, fejlődés#process
+döntés, határozat, rendelet, végzés, ítélet#decision
+távolabb, messzebb, tovább#further
+diagram, (statisztikai) diagram grafikon, görbe, táblázat, grafikon, folyamatábra#chart
+elágazás, ágazat#branch
+pincérnő#waitress
+elutasított, visszautasított#denied
+igazgat, intéz, kidolgoz, ellát, bonyolít, foglalkozik, kézben tart#handle
+kizár, kirekeszt, kiűz, lehetetlenné tesz, elhárít, eltilt#excluded
+helyes, megfelelő, helyénvaló, illő, alkalmas#appropriate
+kifejezés, frázis, szólás, mondás#phrase
+csapattárs#teammate
+tisztázás, szűrés, tisztítás#clarification
+elkísér#accompany
+jellegzetesség, tulajdonság, sajátosság#feature
+megvalósít, kivitelez, foganatosít, végrehajt#implement
+összefüggő, összetartozó#coherent
+gépelési hiba#typo
+összetétel, tartalom#content
+remélt, várt#expected
+mondat#sentence
+*Codecool_02
+szikra, sziporka, gyújtószikra#spark
+abbahagy, szüntet, beszüntet, megszüntet#ceasing
+juttatás, ellátás#benefit
+gép, készülék, tartozék, szerkezet#appliance
+lét, meglét, fennállás, létezés#existence
+kiejtésmód, akcentus, ékezet, hangsúlyjel#accent
+futó, átmeneti, átmenő, tranziens, ideiglenes#transient
+ostobaság, butaság, üres beszéd, haszontalan beszéd, halandzsa, koholmány, kitalált történet, koholt történet, szélhámosság, humbug, mesebeszéd#fudge
+visszavon, érvénytelenít, eltöröl#revoke
+űrtartalom, térfogat, befogadóképesség, terjedelem, kiterjedés, felület#content
